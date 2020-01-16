@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Access</string>
+    <string name="action_settings">Settings</string>
+    <string name="empty_not_saved">Not sent, Please fill all Fields to add a new Visitor</string>
+</resources>
